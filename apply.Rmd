@@ -1,0 +1,12 @@
+---
+title: "R tutorial on the Apply family of functions"
+author: "Syed Faraz Ali"
+date: "9/25/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+The apply family pertains to the R base package, and is populated with functions to manipulate slices of data from matrices, arrays, lists and dataframes in a repetitive way. 
